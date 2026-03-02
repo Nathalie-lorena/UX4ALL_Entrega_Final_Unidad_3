@@ -1,1 +1,3 @@
-Carpeta destinada a evaluación heurística, matriz impacto-esfuerzo y severidad.
+# Prototipos Low-Fi
+
+Descripción de wireframes y decisiones de diseño.

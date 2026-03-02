@@ -1,7 +1,5 @@
-# Evaluación Heurística
+# User Journey Map
 
-## Tabla Severidad 1–4
-Descripción de problemas y clasificación.
+Etapas: Ingreso → Búsqueda → Acción → Confirmación
 
-## Comparativa Nielsen vs SMASH
-Análisis cruzado.
+Pain Points detectados.
